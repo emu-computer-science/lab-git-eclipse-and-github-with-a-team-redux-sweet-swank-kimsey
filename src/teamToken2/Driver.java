@@ -8,8 +8,13 @@ public class Driver {
 		Hungry iamhungry = new Hungry();
 		iamhungry.hungry();
 		
+
 		Sad newVar = new Sad();
 		newVar.printM();
+
+
+		Glad glad = new Glad();
+		System.out.println(glad.Glad());
 
 	}
 
