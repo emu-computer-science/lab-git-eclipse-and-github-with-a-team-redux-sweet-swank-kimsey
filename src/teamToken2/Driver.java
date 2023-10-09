@@ -11,6 +11,7 @@ public class Driver {
 
 		Sad newVar = new Sad();
 		newVar.printM();
+		newVar.secondChange();
 
 
 		Glad glad = new Glad();
