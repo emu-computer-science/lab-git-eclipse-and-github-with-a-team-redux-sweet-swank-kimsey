@@ -6,7 +6,7 @@ public class Driver {
 		System.out.println("Our team is getting started.");
 
 		Hungry iamhungry = new Hungry();
-		iamhungry.hungry();
+		iamhungry.veryHungry();
 		
 
 		Sad newVar = new Sad();
