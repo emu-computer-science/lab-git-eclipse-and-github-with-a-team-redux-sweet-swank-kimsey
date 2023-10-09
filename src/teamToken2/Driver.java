@@ -7,6 +7,9 @@ public class Driver {
 
 		Hungry iamhungry = new Hungry();
 		iamhungry.hungry();
+		
+		Glad glad = new Glad();
+		System.out.println(glad.Glad());
 	}
 
 }
