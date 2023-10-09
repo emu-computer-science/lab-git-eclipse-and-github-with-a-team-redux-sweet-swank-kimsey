@@ -1,7 +1,7 @@
 package teamToken2;
 
 public class Glad {
-	public String Glad(){
-			return "We are all glad";
+	public static void Glad(){
+		System.out.println("We are all glad");
 	}
 }

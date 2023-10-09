@@ -14,7 +14,7 @@ public class Driver {
 
 
 		Glad glad = new Glad();
-		System.out.println(glad.Glad());
+		glad.Glad();
 
 	}
 
