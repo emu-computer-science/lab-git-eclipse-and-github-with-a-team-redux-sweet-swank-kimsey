@@ -7,6 +7,10 @@ public class Driver {
 
 		Hungry iamhungry = new Hungry();
 		iamhungry.hungry();
+		
+		Sad newVar = new Sad();
+		newVar.printM();
+
 	}
 
 }
